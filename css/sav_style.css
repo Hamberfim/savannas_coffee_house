@@ -1,0 +1,88 @@
+/* modify bootstrap */
+/* color control classes */
+.bkg_coffee {
+    background-color: rgb(115, 67, 56);
+}
+
+.bkg_creamer {
+    background-color: rgb(217, 185, 126);
+}
+
+.bkg_rust_coffee {
+    background-color: rgb(191, 101, 69);
+}
+
+
+/* custom fonts*/
+.adorn_graved_reg {
+    font-family: adorn-engraved, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(115, 67, 56);
+}
+
+.adorn_graved_reg_blk {
+    font-family: adorn-engraved, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0, );
+}
+
+.voltage_reg {
+    font-family: voltage, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(191, 101, 69);
+}
+
+.voltage_reg_blk {
+    font-family: voltage, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.font_size_up1 span {
+    font-size: 3.8em;
+    line-height: 70%;
+}
+
+.font_size_up2 span {
+    font-size: 4.2em;
+    line-height: 70%;
+}
+
+
+
+em {
+    font-size: 0.7rem;
+    color: rgb(191, 101, 69);
+}
+
+/* logo control */
+.sav_logo {
+    min-height: 10vmin;
+    max-height: 20vmax;
+}
+
+
+/* decor */
+header hr {
+    border-top: 4px solid rgb(0, 0, 0);
+    margin-top: 0px;
+}
+
+hr {
+    border-top: 4px dashed rgb(191, 101, 69);
+    margin-top: 0px;
+}
+
+.bottom_hr {
+    border-top: 4px solid rgb(0, 0, 0);
+    margin-bottom: 0px;
+}
+
+.map {
+    border: 1px solid rgb(115, 67, 56);
+    border-radius: 3px;
+}

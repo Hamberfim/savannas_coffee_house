@@ -1,0 +1,26 @@
+/* modify bootstrap */
+header {
+    margin-bottom: -3px;
+}
+
+.card {
+    border: 1px solid rgb(115, 67, 56);
+    margin-bottom: 9px;
+}
+
+.div_ft_control {
+    background-color: rgb(115, 67, 56);
+    margin-top: 0px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+footer {
+    margin-bottom: 0px;
+
+}
+
+
+.btn-info {
+    background-color: rgb(191, 101, 69);
+    border: 0px;
+}
